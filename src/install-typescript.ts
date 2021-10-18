@@ -1,2 +1,2 @@
-let message: string ='Hellow,Typescript!';
+let message: string ='Hellow,ts-node!';
 console.log({message});
